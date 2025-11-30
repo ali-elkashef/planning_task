@@ -1,0 +1,4 @@
+[console_scripts]
+A_algorithm = global_planner.A_algorithm:main
+random_map = global_planner.random_map:main
+starting_point = global_planner.starting_point:main
