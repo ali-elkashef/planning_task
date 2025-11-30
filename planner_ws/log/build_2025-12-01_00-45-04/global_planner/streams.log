@@ -1,0 +1,27 @@
+[0.498s] Invoking command in '/home/ali-elkashef/planner_ws/src/global_planner': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ali-elkashef/planner_ws/build/global_planner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ali-elkashef/planner_ws/install/global_planner/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/global_planner build --build-base /home/ali-elkashef/planner_ws/build/global_planner/build install --record /home/ali-elkashef/planner_ws/build/global_planner/install.log --single-version-externally-managed install_data
+[0.647s] running egg_info
+[0.656s] writing ../../build/global_planner/global_planner.egg-info/PKG-INFO
+[0.657s] writing dependency_links to ../../build/global_planner/global_planner.egg-info/dependency_links.txt
+[0.657s] writing entry points to ../../build/global_planner/global_planner.egg-info/entry_points.txt
+[0.657s] writing requirements to ../../build/global_planner/global_planner.egg-info/requires.txt
+[0.657s] writing top-level names to ../../build/global_planner/global_planner.egg-info/top_level.txt
+[0.676s] reading manifest file '../../build/global_planner/global_planner.egg-info/SOURCES.txt'
+[0.676s] adding license file 'LICENSE'
+[0.676s] writing manifest file '../../build/global_planner/global_planner.egg-info/SOURCES.txt'
+[0.676s] running build
+[0.676s] running build_py
+[0.676s] copying global_planner/random_map.py -> /home/ali-elkashef/planner_ws/build/global_planner/build/lib/global_planner
+[0.676s] running install
+[0.680s] running install_lib
+[0.690s] copying /home/ali-elkashef/planner_ws/build/global_planner/build/lib/global_planner/random_map.py -> /home/ali-elkashef/planner_ws/install/global_planner/lib/python3.12/site-packages/global_planner
+[0.690s] byte-compiling /home/ali-elkashef/planner_ws/install/global_planner/lib/python3.12/site-packages/global_planner/random_map.py to random_map.cpython-312.pyc
+[0.691s] running install_data
+[0.691s] running install_egg_info
+[0.701s] removing '/home/ali-elkashef/planner_ws/install/global_planner/lib/python3.12/site-packages/global_planner-0.0.0-py3.12.egg-info' (and everything under it)
+[0.701s] Copying ../../build/global_planner/global_planner.egg-info to /home/ali-elkashef/planner_ws/install/global_planner/lib/python3.12/site-packages/global_planner-0.0.0-py3.12.egg-info
+[0.702s] running install_scripts
+[0.769s] Installing A_algorithm script to /home/ali-elkashef/planner_ws/install/global_planner/lib/global_planner
+[0.769s] Installing random_map script to /home/ali-elkashef/planner_ws/install/global_planner/lib/global_planner
+[0.769s] Installing starting_point script to /home/ali-elkashef/planner_ws/install/global_planner/lib/global_planner
+[0.769s] writing list of installed files to '/home/ali-elkashef/planner_ws/build/global_planner/install.log'
+[0.787s] Invoked command in '/home/ali-elkashef/planner_ws/src/global_planner' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ali-elkashef/planner_ws/build/global_planner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ali-elkashef/planner_ws/install/global_planner/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/global_planner build --build-base /home/ali-elkashef/planner_ws/build/global_planner/build install --record /home/ali-elkashef/planner_ws/build/global_planner/install.log --single-version-externally-managed install_data
